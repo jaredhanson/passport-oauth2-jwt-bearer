@@ -22,7 +22,7 @@
   "main": "./lib/passport-oauth2-jwt-bearer",
   "dependencies": {
     "passport-strategy": "1.x.x",
-    "jws": "0.2.x"
+    "jws": "^3.1.4"
   },
   "devDependencies": {
     "mocha": "1.x.x",
